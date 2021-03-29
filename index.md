@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## CGPart: A Part Segmentation Dataset Based on 3D Computer Graphics Models
 
-You can use the [editor on GitHub](https://github.com/qliu24/cgpart/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+CGPart is a comprehensive part segmentation dataset that provides detailed annotations on 3D CAD models, synthetic images, and real test images. CGPart includes 21 3D CAD models covering 5 vehicle categories, each with detailed per-mesh part labeling. By varying the rendering parameters, we make a large scale synthetic image dataset from these CAD models, each with automatically generated part segmentation ground-truth. We also annotate part segmentations on 200 real images for evaluation purposes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below are some example segmentation annotations from the dataset.
 
 ### Markdown
 

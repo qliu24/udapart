@@ -7,6 +7,9 @@ Below are some example segmentation annotations from the dataset.
 
 More detailed descriptions and experimental results of using CGPart as a benchmark for unsupervised domain adapatation for part segmentation could be found in the [paper](https://arxiv.org/abs/2103.14098).
 
+### CGPart Real Test Images
+CGPart provides part segmentations on 200 real vehicle images (40 images per category) for evaluation purposes. The images are carefully selected from PASCAL3D+ dataset [1] to contain high-resolution and non-occluded objects from various subtypes and evenly distributed viewpoints. The data and relevant files can be downloaded [HERE](https://cs.jhu.edu/~qliu24/CGPart/PASCAL3D+.zip). For original uncropped images, please download from the [PASCAL3D+](https://cvgl.stanford.edu/projects/pascal3d.html) website.
+
 ### Citation
 If you find this project helpful, please consider citing our paper.
 ```
@@ -17,3 +20,5 @@ If you find this project helpful, please consider citing our paper.
   year      = {2021},
 }
 ```
+### References
+[1] Xiang, Yu, Roozbeh Mottaghi, and Silvio Savarese. "Beyond pascal: A benchmark for 3d object detection in the wild." IEEE winter conference on applications of computer vision. IEEE, 2014.

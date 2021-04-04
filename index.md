@@ -1,14 +1,10 @@
 ## CGPart: A Part Segmentation Dataset Based on 3D Computer Graphics Models
 
-CGPart is a comprehensive part segmentation dataset that provides detailed annotations on 3D CAD models, synthetic images, and real test images.
-
-Below are some example segmentation annotations from the dataset.
-![overview](images/cgpart_overview.pdf)
-
-More detailed descriptions and experimental results of using CGPart as a benchmark for unsupervised domain adapatation for part segmentation could be found in the [paper](https://arxiv.org/abs/2103.14098).
+CGPart is a comprehensive part segmentation dataset that provides detailed annotations on 3D CAD models, synthetic images, and real test images. Below are some example segmentation annotations from the dataset. More detailed descriptions and experimental results of using CGPart as a benchmark for unsupervised domain adapatation for part segmentation could be found in the [paper](https://arxiv.org/abs/2103.14098).
+<img src="images/cgpart_overview.pdf" alt="cgpart_overview" width="750"/>
 
 ### Part Annotation on 3D CAD Models [[Download](https://cs.jhu.edu/~qliu24/CGPart/cgpart_3d.zip)]
-![car_3d_demo](images/demo.gif) ![motorbike_3d_demo](images/demo_cruiser.gif)
+<img src="images/demo.gif" alt="demo_car" width="300"/> <img src="images/demo_cruiser.gif" alt="demo_motorbike" width="300"/>
 
 ### Part Annotation on Synthetic Images [Download]
 

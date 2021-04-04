@@ -1,7 +1,7 @@
 ## CGPart: A Part Segmentation Dataset Based on 3D Computer Graphics Models
 
 CGPart is a comprehensive part segmentation dataset that provides detailed annotations on 3D CAD models, synthetic images, and real test images. Below are some example segmentation annotations from the dataset. More detailed descriptions and experimental results of using CGPart as a benchmark for unsupervised domain adapatation for part segmentation could be found in the [paper](https://arxiv.org/abs/2103.14098).  
-<img src="https:qliu24.github.io/cgpart/images/cgpart_overview.pdf" alt="cgpart_overview" width="750"/>
+<img src="https://qliu24.github.io/cgpart/images/cgpart_overview.pdf" alt="cgpart_overview" width="750"/>
 
 ### Part Annotation on 3D CAD Models [[Download](https://cs.jhu.edu/~qliu24/CGPart/cgpart_3d.zip)]
 CGPart is composed of 3D CAD models from 5 vehicle categories: *car*, *motorbike*, *aeroplane*, *bus*, and *bicycle*. For each category, we select 4 to 5 high-quality 3D CAD models from ShapeNetCore [1]. Each CAD model represents a common prototype (i.e., subtype) of the category it belongs to. In total, we select 21 CAD models to be included and annotated in CGPart. Below are some example part annotations on 3D CAD models.  
@@ -15,7 +15,7 @@ Based on the CAD models and their part annotations, we render a large-scale synt
 
 ### Part Annotation on Real Test Images [[Download](https://cs.jhu.edu/~qliu24/CGPart/cgpart_real.zip)]
 CGPart also provides part segmentations on 200 real vehicle images (40 images per category) for evaluation purposes. The images are carefully selected from PASCAL3D+ dataset [3] to contain high-resolution and non-occluded objects from various subtypes and evenly distributed viewpoints. We use the VGG Image Annotator to manually label the parts on the images. Below are some example part annotations on real test images and comparisons with PascalPart [4]. For original uncropped images, please download from the [PASCAL3D+](https://cvgl.stanford.edu/projects/pascal3d.html) website.  
-<img src="https:qliu24.github.io/cgpart/images/cgpart_vs_ppart.pdf" alt="cgpart_vs_ppart" width="750"/>
+<img src="https://qliu24.github.io/cgpart/images/cgpart_vs_ppart.pdf" alt="cgpart_vs_ppart" width="750"/>
 
 ### Citation
 If you find this project helpful, please consider citing our paper.

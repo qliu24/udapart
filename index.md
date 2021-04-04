@@ -8,6 +8,7 @@ Below are some example segmentation annotations from the dataset.
 More detailed descriptions and experimental results of using CGPart as a benchmark for unsupervised domain adapatation for part segmentation could be found in the [paper](https://arxiv.org/abs/2103.14098).
 
 ### Part Annotation on 3D CAD Models [[Download](https://cs.jhu.edu/~qliu24/CGPart/cgpart_3d.zip)]
+![car_3d_demo](images/demo.gif)
 
 ### Part Annotation on Synthetic Images [Download]
 

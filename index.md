@@ -4,7 +4,8 @@ CGPart is a comprehensive part segmentation dataset that provides detailed annot
 <img src="images/cgpart_overview.pdf" alt="cgpart_overview" width="750"/>
 
 ### Part Annotation on 3D CAD Models [[Download](https://cs.jhu.edu/~qliu24/CGPart/cgpart_3d.zip)]
-CGPart is composed of 3D CAD models from 5 vehicle categories: *car*, *motorbike*, *aeroplane*, *bus*, and *bicycle*. For each category, we select 4 to 5 high-quality 3D CAD models from ShapeNetCore [1]. Each CAD model represents a common prototype (i.e., subtype) of the category it belongs to. In total, we select 21 CAD models to be included and annotated in CGPart. Below are some example part annotations on 3D CAD models.   
+CGPart is composed of 3D CAD models from 5 vehicle categories: *car*, *motorbike*, *aeroplane*, *bus*, and *bicycle*. For each category, we select 4 to 5 high-quality 3D CAD models from ShapeNetCore [1]. Each CAD model represents a common prototype (i.e., subtype) of the category it belongs to. In total, we select 21 CAD models to be included and annotated in CGPart. Below are some example part annotations on 3D CAD models.  
+  
 <img src="images/demo.gif" alt="demo_car" width="300"/> <img src="images/demo_cruiser.gif" alt="demo_motorbike" width="300"/>  
   
 <img src="images/demo_jet.gif" alt="demo_aeroplane" width="300"/> <img src="images/demo_utility.gif" alt="demo_bicycle" width="300"/>

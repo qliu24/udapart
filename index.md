@@ -7,6 +7,7 @@ CGPart is a comprehensive part segmentation dataset that provides detailed annot
 ### Part Annotation on 3D CAD Models [[Download](https://cs.jhu.edu/~qliu24/CGPart/cgpart_3d.zip)]
 CGPart is composed of 3D CAD models from 5 vehicle categories: *car*, *motorbike*, *aeroplane*, *bus*, and *bicycle*. For each category, we select 4 to 5 high-quality 3D CAD models from ShapeNetCore [1]. Each CAD model represents a common prototype (i.e., subtype) of the category it belongs to. In total, we select 21 CAD models to be included and annotated in CGPart. Below are some example part annotations on 3D CAD models.   
 <img src="images/demo.gif" alt="demo_car" width="300"/> <img src="images/demo_cruiser.gif" alt="demo_motorbike" width="300"/>  
+  
 <img src="images/demo_jet.gif" alt="demo_aeroplane" width="300"/> <img src="images/demo_utility.gif" alt="demo_bicycle" width="300"/>
 
 ### Part Annotation on Synthetic Images [Download]
@@ -27,7 +28,7 @@ If you find this project helpful, please consider citing our paper.
 }
 ```
 ### References
-[1] Chang, Angel X., et al. "Shapenet: An information-rich 3d model repository." arXiv preprint arXiv:1512.03012 (2015).
-[2] Community, B. O. (2018). "Blender - a 3D modelling and rendering package." Stichting Blender Foundation, Amsterdam. Retrieved from http://www.blender.org.
-[3] Xiang, Yu, Roozbeh Mottaghi, and Silvio Savarese. "Beyond pascal: A benchmark for 3d object detection in the wild." IEEE winter conference on applications of computer vision. IEEE, 2014.
+[1] Chang, Angel X., et al. "Shapenet: An information-rich 3d model repository." arXiv preprint arXiv:1512.03012 (2015).  
+[2] Community, B. O. (2018). "Blender - a 3D modelling and rendering package." Stichting Blender Foundation, Amsterdam. Retrieved from http://www.blender.org.  
+[3] Xiang, Yu, Roozbeh Mottaghi, and Silvio Savarese. "Beyond pascal: A benchmark for 3d object detection in the wild." IEEE winter conference on applications of computer vision. IEEE, 2014.  
 [4] Chen, Xianjie, et al. "Detect what you can: Detecting and representing objects using holistic models and body parts." IEEE conference on computer vision and pattern recognition. 2014.

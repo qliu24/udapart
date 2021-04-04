@@ -9,6 +9,7 @@ More detailed descriptions and experimental results of using CGPart as a benchma
 
 ### Part Annotation on 3D CAD Models [[Download](https://cs.jhu.edu/~qliu24/CGPart/cgpart_3d.zip)]
 
+### Part Annotation on Synthetic Images [Download]
 
 ### Part Annotation on Real Test Images [[Download](https://cs.jhu.edu/~qliu24/CGPart/cgpart_real.zip)]
 CGPart provides part segmentations on 200 real vehicle images (40 images per category) for evaluation purposes. The images are carefully selected from PASCAL3D+ dataset [1] to contain high-resolution and non-occluded objects from various subtypes and evenly distributed viewpoints. For original uncropped images, please download from the [PASCAL3D+](https://cvgl.stanford.edu/projects/pascal3d.html) website.

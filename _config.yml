@@ -1,3 +1,2 @@
 theme: jekyll-theme-dinky
-title: CGPart Dataset
 description: CGPart is a comprehensive part segmentation dataset that provides detailed annotations on 3D CAD models, synthetic images, and real test images.

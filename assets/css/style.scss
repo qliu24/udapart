@@ -5,16 +5,19 @@
 img {
   position: relative;
   margin: 0 auto;
-  max-width: 900px;
+  max-width: 750px;
   padding: 5px;
   margin: 10px 0 32px 0;
   border: 1px solid #ccc;
 }
 .wrapper {
-  width:1210px;
+  width:1060px;
+}
+header {
+  width:200px;
 }
 section {
-  width:900px;
+  width:750px;
   float:right;
   padding-bottom:50px;
 }

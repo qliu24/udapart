@@ -10,7 +10,7 @@ UDA-Part is composed of 3D CAD models from 5 vehicle categories: *car*, *motorbi
   
 <img src="images/demo_jet.gif" alt="demo_aeroplane" width="300"/> <img src="images/demo_utility.gif" alt="demo_bicycle" width="300"/>
 
-### Part Annotation on Synthetic Images [Download]
+### Part Annotation on Synthetic Images [[Download](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/qliu24_jh_edu/Ea_mSpbaU85LrCctmNlyCwgB8JMAVrzCJ56eXu-X2S0mRQ?e=AsnUSy)]
 Based on the CAD models and their part annotations, we render a large-scale synthetic image dataset with automatically generated part segmentation ground-truth. We use Blender as our renderer and randomize the parameters, including lighting, background, object texture, and viewpoint, to enable nuisance factor control and facilitate domain generalization. Example code could be found at [here](https://github.com/qliu24/render-3d-segmentation). 
 
 ### Part Annotation on Real Test Images [[Download](https://cs.jhu.edu/~qliu24/CGPart/cgpart_real.zip)]

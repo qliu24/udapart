@@ -1,4 +1,5 @@
-## UDA-Part: A Part Segmentation Dataset Based on 3D Computer Graphics Models [![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-ND-4.0&color=green)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+## UDA-Part: A Part Segmentation Dataset Based on 3D Computer Graphics Models
+[![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-ND-4.0&color=green)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 UDA-Part is a comprehensive part segmentation dataset that provides detailed annotations on 3D CAD models, synthetic images, and real test images. Below are some example segmentation annotations from the dataset. More detailed descriptions and experimental results of using UDA-Part as a benchmark for unsupervised domain adapatation for part segmentation could be found in the [paper](https://arxiv.org/abs/2103.14098).  
 <img src="images/cgpart_overview.jpg" alt="cgpart_overview" width="750"/>

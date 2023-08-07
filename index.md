@@ -1,4 +1,4 @@
-## UDA-Part: A Part Segmentation Dataset Based on 3D Computer Graphics Models
+## UDA-Part: A Part Segmentation Dataset Based on 3D Computer Graphics Models [![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-ND-4.0&color=green)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 UDA-Part is a comprehensive part segmentation dataset that provides detailed annotations on 3D CAD models, synthetic images, and real test images. Below are some example segmentation annotations from the dataset. More detailed descriptions and experimental results of using UDA-Part as a benchmark for unsupervised domain adapatation for part segmentation could be found in the [paper](https://arxiv.org/abs/2103.14098).  
 <img src="images/cgpart_overview.jpg" alt="cgpart_overview" width="750"/>
@@ -16,6 +16,9 @@ Based on the CAD models and their part annotations, we render a large-scale synt
 ### Part Annotation on Real Test Images [[Download](https://cs.jhu.edu/~qliu24/CGPart/cgpart_real.zip)]
 UDA-Part also provides part segmentations on 200 real vehicle images (40 images per category) for evaluation purposes. The images are carefully selected from PASCAL3D+ dataset [3] to contain high-resolution and non-occluded objects from various subtypes and evenly distributed viewpoints. We use the VGG Image Annotator to manually label the parts on the images. Below are some example part annotations on real test images and comparisons with PascalPart [4]. For original uncropped images, please download from the [PASCAL3D+](https://cvgl.stanford.edu/projects/pascal3d.html) website.  
 <img src="images/cgpart_vs_ppart.jpg" alt="cgpart_vs_ppart" width="750"/>
+
+### License
+All data is under [![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-ND-4.0&color=green)](https://creativecommons.org/licenses/by-nc-nd/4.0/). For commercial use, please contact the author and Johns Hopkins University.
 
 ### Citation
 If you find this project helpful, please consider citing our paper.
